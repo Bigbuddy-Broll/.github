@@ -2,7 +2,7 @@
   <a href="#">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1s4_A40bJ0S-zVJ2Bzqk60mowmsJHCK97/view?usp=share_link">
-      <img alt="Animated LOGO" src="https://drive.google.com/file/d/1s4_A40bJ0S-zVJ2Bzqk60mowmsJHCK97/view?usp=share_link">
+      <img alt="Animated LOGO" src="https://bigbuddyai.com/assets/img/logo/logo-blue.png">
     </picture>
   </a>
 </p>
